@@ -1,3 +1,4 @@
 data/
 char_model/
 *.json
+!spec/*.json
