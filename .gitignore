@@ -1,4 +1,3 @@
 data/
 char_model/
-*.json
-!spec/*.json
+train_corpus.json
